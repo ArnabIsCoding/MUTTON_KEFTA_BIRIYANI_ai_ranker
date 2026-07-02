@@ -1,6 +1,4 @@
 # Redrob AI Hackathon — Candidate Ranking Engine (Solo Submission)
-Github_Repo: https://github.com/ArnabIsCoding/MUTTON_KEFTA_BIRIYANI_ai_ranker/
-
 Sandbox_Link: https://colab.research.google.com/drive/1zLBSZVJAb7iN30UylUA4OXPk0n1_qysU?usp=sharing
 ## Architecture Overview
 
