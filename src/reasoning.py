@@ -428,9 +428,6 @@ def _tier4_reasoning(candidate: dict, features: dict, rank: int) -> str:
     parts.append(f"{title} at {company}, {years:.0f} yrs total experience.")
     if weaknesses:
         parts.append("Weaknesses: " + "; ".join(weaknesses[:3]) + ".")
-    else:
-        parts.append(
-        )
     if skills:
         parts.append(f"Does list {', '.join(skills[:2])}.")
     return " ".join(parts)

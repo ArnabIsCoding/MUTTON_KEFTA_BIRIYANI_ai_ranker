@@ -37,6 +37,9 @@ Key responsibilities:
 - Evaluate ranking quality with NDCG, MRR, MAP
 - Deploy models with low-latency inference in production
 - A/B test ranking improvements
+"""
+
+def load_candidates(path: str) -> list:
     candidates = []
     if path.endswith(".jsonl"):
         with open(path, "r", encoding="utf-8") as f:
