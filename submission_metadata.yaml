@@ -9,8 +9,8 @@ Team_Members:
   - Email: arnab_goswamiaiml2023@msit.edu.in
   - Phone: +91-9531570784
 
-Github_Repo: https://github.com/FILL_IN_YOUR_REPO
-Sandbox_Link: https://huggingface.co/spaces/FILL_IN_YOUR_SPACE
+Github_Repo: https://github.com/ArnabIsCoding/MUTTON_KEFTA_BIRIYANI_ai_ranker/
+Sandbox_Link: https://colab.research.google.com/drive/1zLBSZVJAb7iN30UylUA4OXPk0n1_qysU?usp=sharing
 
 Ai_Tools_Used:
   - "Used AI for debugging Python code, structuring scoring logic, and analyzing the JD/candidate schema to identify feature engineering dimensions."
