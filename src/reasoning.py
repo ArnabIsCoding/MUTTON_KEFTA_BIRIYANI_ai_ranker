@@ -365,9 +365,11 @@ def _tier3_reasoning(candidate: dict, features: dict, rank: int) -> str:
         )
     elif desc_score >= 0.15:
         parts.append(
+            "Some relevant keywords in descriptions."
         )
     else:
         parts.append(
+            "Missing evidence in job descriptions."
         )
     if skills:
         parts.append(f"Lists {skill_str}.")
