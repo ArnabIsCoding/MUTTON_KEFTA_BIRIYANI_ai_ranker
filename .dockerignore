@@ -1,0 +1,35 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+
+# VCS
+.git/
+.gitignore
+
+# Non-production directories
+archive/
+tests/
+scripts/
+
+# Documentation & markdown
+*.md
+
+# Demo / dev-only files
+app.py
+requirements-demo.txt
+terminal_data.txt
+premortem_grilling.md
+test_submission.csv
+sample_candidates.json
+
+# Data & logs
+*.log
+*.pkl
+*.parquet
+.env
+
+# Keep production requirements
+!requirements.txt
