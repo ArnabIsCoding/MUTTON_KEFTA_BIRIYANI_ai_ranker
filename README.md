@@ -1,5 +1,5 @@
 # Redrob AI Hackathon — Candidate Ranking Engine (Solo Submission)
-
+Sandbox_Link: https://colab.research.google.com/drive/1zLBSZVJAb7iN30UylUA4OXPk0n1_qysU?usp=sharing
 ## Architecture Overview
 
 This project uses a **deterministic, multi-signal scoring system** to rank candidates for a Senior AI Engineer role. Instead of relying on cosine similarity with embeddings (which conflates "mentions AI" with "does AI"), it implements 8 orthogonal scoring dimensions that combine via a multiplicative formula.
